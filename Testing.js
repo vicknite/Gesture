@@ -22,3 +22,7 @@ function test(){
     changeX2(pt);
     write(pt.x);
 }
+
+function testUnknown(){
+
+}
